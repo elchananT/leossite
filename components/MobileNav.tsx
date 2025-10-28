@@ -2,6 +2,7 @@
 
 import React, {useState} from 'react'
 import Link from "next/link";
+import {Menu} from "lucide-react";
 
 const MobileNav = () => {
     const [isOpen, setIsOpen] = useState(false);
@@ -17,7 +18,9 @@ const MobileNav = () => {
                     className="md:hidden p-2 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700"
                     onClick={() => setIsOpen(!isOpen)}
                 >
-                    <span className="material-symbols-outlined">menu</span>
+                    <span className="material-symbols-outlined">
+                        <Menu/>
+                    </span>
                 </button>
                </div>
                 {isOpen && (
