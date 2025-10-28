@@ -10,7 +10,7 @@ const Story = () => {
                         <p className="mt-6 text-lg leading-8">Learn more about our journey, our passion for design, and the talented individuals who make it all happen.</p>
                     </div>
                     <div className="relative h-80 w-full rounded-xl shadow-lg lg:h-full">
-                        <img alt="A modern and bright living room with minimalist furniture, designed by the company." className="h-full w-full rounded-xl object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBO5w7ALAn71DSUFLa1ldKCQFX5g8TctY2YEmgjb9EkvGhOz49Y6hiLn-3hqZVenUwAUdlcInerkKounyWNc1foXFAoa22VMND1_u7YGd76GeguWtdLSHyUqdN5y0d41iTUqKia47tbE76dhwvCH_Q2LVkF-KXPOyQANu2fc4KygJH2PAcfk_6gNE3r7mK6DxGfLlFzRxUXGYd1RnzjDKDY9CeC-_cPaPmo64Lujf8rLIWaY5POSMOFc-dsIN9vT467_ap_TVnsLbyL"/>
+                        <img loading='lazy' alt="A modern and bright living room with minimalist furniture, designed by the company." className="h-full w-full rounded-xl object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBO5w7ALAn71DSUFLa1ldKCQFX5g8TctY2YEmgjb9EkvGhOz49Y6hiLn-3hqZVenUwAUdlcInerkKounyWNc1foXFAoa22VMND1_u7YGd76GeguWtdLSHyUqdN5y0d41iTUqKia47tbE76dhwvCH_Q2LVkF-KXPOyQANu2fc4KygJH2PAcfk_6gNE3r7mK6DxGfLlFzRxUXGYd1RnzjDKDY9CeC-_cPaPmo64Lujf8rLIWaY5POSMOFc-dsIN9vT467_ap_TVnsLbyL"/>
                     </div>
                 </div>
             </div>
