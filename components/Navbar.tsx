@@ -18,8 +18,8 @@ const Navbar = () => {
                 </nav>
 
                 <div className="flex items-center gap-4">
-                    <Link className="hidden md:flex min-w-[84px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-5 bg-[#4A908A] text-white text-sm font-bold tracking-wide shadow-sm hover:bg-[#4A908A]/90 transition-colors" href="#contact">
-                        <span className="truncate">Get a Quote</span>
+                    <Link className="hidden md:flex min-w-[84px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-5 bg-[#4A908A] text-white text-sm font-bold tracking-wide shadow-sm hover:bg-[#4A908A]/90 transition-colors" href="/contact">
+                        <span className="truncate">Contact us</span>
                     </Link>
                 </div>
             </div>

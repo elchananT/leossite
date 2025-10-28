@@ -27,8 +27,8 @@ const MobileNav = () => {
                         <Link onClick={() => setIsOpen(false)} className="text-sm font-semibold text-[#C0B283]" href="/projects">Projects</Link>
                         <Link onClick={() => setIsOpen(false)} className="text-sm font-semibold text-[#C0B283]" href="/contact">Contact</Link>
 
-                        <Link onClick={() => setIsOpen(false)} className="flex w-1/2 cursor-pointer items-center justify-center rounded-lg h-10 px-5 bg-[#4A908A] text-white text-sm font-bold shadow-sm" href="#contact">
-                            Get a Quote
+                        <Link onClick={() => setIsOpen(false)} className="flex w-1/2 cursor-pointer items-center justify-center rounded-lg h-10 px-5 bg-[#4A908A] text-white text-sm font-bold shadow-sm" href="/contact">
+                            Contact us
                         </Link>
                     </div>
                 )}
